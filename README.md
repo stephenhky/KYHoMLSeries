@@ -6,3 +6,4 @@ Objectives:
 - Some hands-on experience
 - Python, TensorFlow, and PyTorch
 
+Outline: [here](outline.md)
